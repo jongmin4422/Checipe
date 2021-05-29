@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Checipe/static/css/main.602ba369.chunk.css",
-    "main.js": "/Checipe/static/js/main.e2c59755.chunk.js",
-    "main.js.map": "/Checipe/static/js/main.e2c59755.chunk.js.map",
+    "main.js": "/Checipe/static/js/main.ec882248.chunk.js",
+    "main.js.map": "/Checipe/static/js/main.ec882248.chunk.js.map",
     "runtime-main.js": "/Checipe/static/js/runtime-main.34120e2b.js",
     "runtime-main.js.map": "/Checipe/static/js/runtime-main.34120e2b.js.map",
     "static/css/2.653800cc.chunk.css": "/Checipe/static/css/2.653800cc.chunk.css",
@@ -90,6 +90,6 @@
     "static/css/2.653800cc.chunk.css",
     "static/js/2.0faf6cac.chunk.js",
     "static/css/main.602ba369.chunk.css",
-    "static/js/main.e2c59755.chunk.js"
+    "static/js/main.ec882248.chunk.js"
   ]
 }
