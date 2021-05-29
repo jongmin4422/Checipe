@@ -68,7 +68,7 @@ const Header = () => {
                          manager: Manager
                        }
                      }} >Notice</Link></li>
-                     <li><Link to="/About_Open">Open</Link></li>
+                     <li><Link to="https://github.com/jongmin4422/Checipe#readme">Open</Link></li>
                 </ul>
             </div>
        
