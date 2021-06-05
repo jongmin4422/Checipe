@@ -141,30 +141,24 @@ const Mainpage = () => {
           </div>
           {/* react slick은 이런식으로 사용이 가능하다 */}
           <Slider {...settings_mid}>
-            <Link to="/About_open">
             <img
               className='slideimg'
               src={Whyvegan}
               width='1300px'
               height='100%'
             />
-            </Link>
-            <Link to="/Notice">
             <img
               className='slideimg'
               src={Noticeimg}
               width='1300px'
-              height='100%'
+              height='100vh'
             />
-            </Link>
-            <Link to="/About_open">
             <img
               className='slideimg'
               src={Aboutveg}
               width='1300px'
-              height='100%'
+              height='100vh'
             />
-            </Link>
           </Slider>
         </div>
         <div className="about_btn">
