@@ -98,7 +98,7 @@ const Register = () => {
                 value={title}
                 className={regi.title_txt}
                 placeholder='제목'
-                maxLength={10} />
+                maxLength={100} />
             </div>
             <div>
               <textarea
