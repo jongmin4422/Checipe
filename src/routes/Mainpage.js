@@ -154,15 +154,15 @@ const Mainpage = () => {
               className='slideimg'
               src={Noticeimg}
               width='1300px'
-              height='100vh'
+              height='100%'
             />
             </Link>
-            <Link to="/Notice">
+            <Link to="/About_open">
             <img
               className='slideimg'
               src={Aboutveg}
               width='1300px'
-              height='100vh'
+              height='100%'
             />
             </Link>
           </Slider>
