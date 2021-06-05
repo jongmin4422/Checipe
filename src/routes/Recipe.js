@@ -187,7 +187,7 @@ const Recipe = () => {
 
 
     // 첫 화면에 merge에서 가져온 값을 나타냄
-    dbService.collection("merge").limit(20).onSnapshot((snapshot) => {
+    dbService.collection("merge").limit(50).onSnapshot((snapshot) => {
       const boardArray = snapshot.docs.map((doc) => ({
         id: doc.id,
         ...doc.data(),
@@ -200,7 +200,7 @@ const Recipe = () => {
       setlimit_boards(boardArray.slice(0, limit))
     });
 
-    dbService.collection("vegan").limit(20).onSnapshot((snapshot) => {
+    dbService.collection("vegan").limit(50).onSnapshot((snapshot) => {
       const boardArray = snapshot.docs.map((doc) => ({
         id: doc.id,
         ...doc.data(),
@@ -218,7 +218,7 @@ const Recipe = () => {
       setFlexi(boardArray)
     });
 
-    dbService.collection("lacto").limit(20).onSnapshot((snapshot) => {
+    dbService.collection("lacto").limit(50).onSnapshot((snapshot) => {
       const boardArray = snapshot.docs.map((doc) => ({
         id: doc.id,
         ...doc.data(),
@@ -233,7 +233,7 @@ const Recipe = () => {
       setFlexi((prev) => [...boardArray, ...prev])
     });
 
-    dbService.collection("ovo").limit(20).onSnapshot((snapshot) => {
+    dbService.collection("ovo").limit(50).onSnapshot((snapshot) => {
       const boardArray = snapshot.docs.map((doc) => ({
         id: doc.id,
         ...doc.data(),
@@ -247,7 +247,7 @@ const Recipe = () => {
       setFlexi((prev) => [...boardArray, ...prev])
     });
 
-    dbService.collection("lacto-ovo").limit(20).onSnapshot((snapshot) => {
+    dbService.collection("lacto-ovo").limit(50).onSnapshot((snapshot) => {
       const boardArray = snapshot.docs.map((doc) => ({
         id: doc.id,
         ...doc.data(),
@@ -261,7 +261,7 @@ const Recipe = () => {
       setFlexi((prev) => [...boardArray, ...prev])
     });
 
-    dbService.collection("pollo").limit(20).onSnapshot((snapshot) => {
+    dbService.collection("pollo").limit(50).onSnapshot((snapshot) => {
       const boardArray = snapshot.docs.map((doc) => ({
         id: doc.id,
         ...doc.data(),
@@ -274,7 +274,7 @@ const Recipe = () => {
 
     });
 
-    dbService.collection("pesco").limit(20).onSnapshot((snapshot) => {
+    dbService.collection("pesco").limit(50).onSnapshot((snapshot) => {
       const boardArray = snapshot.docs.map((doc) => ({
         id: doc.id,
         ...doc.data(),
@@ -287,7 +287,7 @@ const Recipe = () => {
 
     });
 
-    dbService.collection("pollo-pesco").limit(20).onSnapshot((snapshot) => {
+    dbService.collection("pollo-pesco").limit(50).onSnapshot((snapshot) => {
       const boardArray = snapshot.docs.map((doc) => ({
         id: doc.id,
         ...doc.data(),
@@ -299,7 +299,7 @@ const Recipe = () => {
 
     });
 
-    dbService.collection("flex").limit(20).onSnapshot((snapshot) => {
+    dbService.collection("flex").limit(50).onSnapshot((snapshot) => {
       const boardArray = snapshot.docs.map((doc) => ({
         id: doc.id,
         ...doc.data(),
