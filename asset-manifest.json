@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Checipe/static/css/main.602ba369.chunk.css",
-    "main.js": "/Checipe/static/js/main.ec882248.chunk.js",
-    "main.js.map": "/Checipe/static/js/main.ec882248.chunk.js.map",
+    "main.css": "/Checipe/static/css/main.8d11a959.chunk.css",
+    "main.js": "/Checipe/static/js/main.a6356956.chunk.js",
+    "main.js.map": "/Checipe/static/js/main.a6356956.chunk.js.map",
     "runtime-main.js": "/Checipe/static/js/runtime-main.34120e2b.js",
     "runtime-main.js.map": "/Checipe/static/js/runtime-main.34120e2b.js.map",
     "static/css/2.653800cc.chunk.css": "/Checipe/static/css/2.653800cc.chunk.css",
-    "static/js/2.0faf6cac.chunk.js": "/Checipe/static/js/2.0faf6cac.chunk.js",
-    "static/js/2.0faf6cac.chunk.js.map": "/Checipe/static/js/2.0faf6cac.chunk.js.map",
+    "static/js/2.5b94c83b.chunk.js": "/Checipe/static/js/2.5b94c83b.chunk.js",
+    "static/js/2.5b94c83b.chunk.js.map": "/Checipe/static/js/2.5b94c83b.chunk.js.map",
     "index.html": "/Checipe/index.html",
     "static/css/2.653800cc.chunk.css.map": "/Checipe/static/css/2.653800cc.chunk.css.map",
-    "static/css/main.602ba369.chunk.css.map": "/Checipe/static/css/main.602ba369.chunk.css.map",
-    "static/js/2.0faf6cac.chunk.js.LICENSE.txt": "/Checipe/static/js/2.0faf6cac.chunk.js.LICENSE.txt",
+    "static/css/main.8d11a959.chunk.css.map": "/Checipe/static/css/main.8d11a959.chunk.css.map",
+    "static/js/2.5b94c83b.chunk.js.LICENSE.txt": "/Checipe/static/js/2.5b94c83b.chunk.js.LICENSE.txt",
     "static/media/AboutVege.22f8667a.svg": "/Checipe/static/media/AboutVege.22f8667a.svg",
     "static/media/Frecipe.7f65008c.svg": "/Checipe/static/media/Frecipe.7f65008c.svg",
     "static/media/style.css": "/Checipe/static/media/HSBombaram_Regular.a9a078d3.ttf",
@@ -34,7 +34,7 @@
     "static/media/fishx.d95ecf63.svg": "/Checipe/static/media/fishx.d95ecf63.svg",
     "static/media/flexio.5a8641af.svg": "/Checipe/static/media/flexio.5a8641af.svg",
     "static/media/flexix.8f9ddc01.svg": "/Checipe/static/media/flexix.8f9ddc01.svg",
-    "static/media/google.29e65501.svg": "/Checipe/static/media/google.29e65501.svg",
+    "static/media/google.b9f615fb.svg": "/Checipe/static/media/google.b9f615fb.svg",
     "static/media/googletrand.c532ca0b.png": "/Checipe/static/media/googletrand.c532ca0b.png",
     "static/media/hashline.ce556c9a.svg": "/Checipe/static/media/hashline.ce556c9a.svg",
     "static/media/hashtag.084c2618.svg": "/Checipe/static/media/hashtag.084c2618.svg",
@@ -88,8 +88,8 @@
   "entrypoints": [
     "static/js/runtime-main.34120e2b.js",
     "static/css/2.653800cc.chunk.css",
-    "static/js/2.0faf6cac.chunk.js",
-    "static/css/main.602ba369.chunk.css",
-    "static/js/main.ec882248.chunk.js"
+    "static/js/2.5b94c83b.chunk.js",
+    "static/css/main.8d11a959.chunk.css",
+    "static/js/main.a6356956.chunk.js"
   ]
 }
